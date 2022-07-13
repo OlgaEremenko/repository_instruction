@@ -1,11 +1,15 @@
 # Подсказка по командной строке
 
 Сменить директорию
-Windows, MacOs, Linux
+Windows: 
 ```sh
-cd <folder name>
+cd 
+C:\<folder name>\folder2
 ```
-
+MacOs, Linux:
+```sh
+cd/Users/username/folder1/folder2
+```
 Очистить терминал
 Windows 
 ```sh
@@ -15,4 +19,6 @@ MacOs. Linux
 ```sh
 clear
 ```
+git status
 
+fff
