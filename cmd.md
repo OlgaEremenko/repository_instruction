@@ -21,4 +21,12 @@ clear
 ```
 git status
 
-fff
+Листинг директория
+Windows:
+```sh
+dir
+```
+MacOs, Linux
+```sh
+ls
+```
